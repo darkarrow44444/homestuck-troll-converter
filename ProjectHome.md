@@ -1,0 +1,1 @@
+A converter that takes regular text and converts it to the speech patterns used by the trolls from Homestuck.
